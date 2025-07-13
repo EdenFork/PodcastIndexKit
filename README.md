@@ -30,7 +30,7 @@ Swift 5.9 is required in order to run the plugin.
 Before making any API requests you must setup the `PodcastIndexKit` package using the `setup` method.  
 
 ```swift
-PodcastIndexKit.setup(apiKey: "YOUR_API_KEY", apiSecret: "YOUR_API_SECRET", userAgent: "YOUR_APP_USER_AGENT")
+PodcastIndex.setup(apiKey: "YOUR_API_KEY", apiSecret: "YOUR_API_SECRET", userAgent: "YOUR_APP_USER_AGENT")
 ```
 
 ## Documentation
